@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon -r esm ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexrafael10/advent-of-code-2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexrafael10/advent-of-code-2022/issues"
+  },
+  "homepage": "https://github.com/alexrafael10/advent-of-code-2022#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "nodemon": "^2.0.20"
+  }
+}
