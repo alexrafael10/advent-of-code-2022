@@ -1,5 +1,5 @@
 import path from "path";
-import { processInputRaw } from "../utils/file";
+import { processInputRaw } from "../../utils/file";
 
 export const run = async () => {
   const input = (await processInputRaw(path.join(__dirname, "input.txt"))).split("\n");
